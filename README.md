@@ -1,3 +1,3 @@
-# 2 🎲dice game
+# 2 🎲 game
 
 ### Project for learning Kotlin.
